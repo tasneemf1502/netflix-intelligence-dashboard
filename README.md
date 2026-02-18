@@ -8,7 +8,7 @@ This project analyzes Netflix content data and provides real-time insights along
 
 ## 🚀 Live Demo
 
-🔗 View Deployed App Here: PASTE_YOUR_STREAMLIT_LINK_HERE
+🔗 View Deployed App Here: https://netflix-intelligence-dashboard-gufztsrkcmvqgzaysu4kgf.streamlit.app/
 
 (Replace with your Streamlit deployment link)
 
